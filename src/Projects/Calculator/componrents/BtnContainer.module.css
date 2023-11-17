@@ -1,0 +1,15 @@
+
+.btnContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* background-color: rgba(72, 72, 172, 0.801); */
+}
+
+.button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.226);
+
+}
